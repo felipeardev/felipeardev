@@ -3,12 +3,7 @@
 I am in my last year of studying Analysis and System Development at Fema based in Assis, São Paulo, Brazil.
 Currently looking for a job, using the technlogies Node.js, Typescript, Docker, Express and Nest.js.
 
-My favorite topics are: 
-• User Experience;
-• Performance;
-• Clean Architecture;
-• Scalability;
-• Security.
+User experience, performance, clean architecture, scalability and security are my favorite topics.
 
 Passionate about technological advancement and proud to be part of. 🚀
 
