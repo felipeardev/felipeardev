@@ -5,7 +5,7 @@ Currently looking for a job, using the technlogies Node.js, Typescript, Docker, 
 
 User experience, performance, clean architecture, scalability and security are my favorite topics.
 
-Passionate about technological advancement and proud to be part of. 🚀
+Passionate about technological advancement and proud to be part of 🚀.
 
 LinkedIn: [@felipe.ribeiro](https://www.linkedin.com/in/felipe-alexandre-ribeiro-395674161)     
 Twitter: [@ownergixel](https://twitter..com/ownergixel)
