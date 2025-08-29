@@ -28,10 +28,10 @@ Sou um **entusiasta da tecnologia da informação** e me sinto orgulhoso por faz
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=felipeardev&show_icons=true&theme=dark)
 
-## 🔗 Vamos nos conectar?
+## 🔗 Quer me conhecer melhor?
 
-- 💼 [LinkedIn](https://linkedin.com/in/felipeardev)
-- 📧 [Email](mailto:felipeardev@gmail.com)
-- 🌐 [Portfólio](https://felipeardev.com.br)
+- [LinkedIn](https://linkedin.com/in/felipeardev)
+- [Email](mailto:felipeardev@gmail.com)
+- [Portfólio](https://felipeardev.com.br)
 
 ---
