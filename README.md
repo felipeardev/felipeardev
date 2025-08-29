@@ -26,7 +26,7 @@ Sou um **entusiasta da tecnologia da informação** e me sinto orgulhoso por faz
 
 ## GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=felipeardev&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=felipeardev&theme=dark&hide=contribs,prs)
 
 ## 🔗 Quer me conhecer melhor?
 
